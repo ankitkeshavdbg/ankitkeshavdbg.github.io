@@ -6,6 +6,7 @@ title: Revised Kids Plan!
 
 **Coding is a language that let's you speak to computers, the next human!!**
 
+![_config.yml]({{ site.baseurl }}/images/Let's learn.jpg)
 You know what, with the advancement in tech, we either become the consumer or the producer. Consuming content makes you satisfied but making and creating new things gives the satisfaction of being a god. Seriously, when I code, I feel as if I am making something and bringing it to life.
 
 Human beings have craved for creation and that's why we adore paintings, sculptors and big monuments but that is the fact of history. Why have we never heard of any inventor after Thomas, yeah that same guy who invented light bulb. You know why, because there are many who have brought smartphones to our hands, GPU in our home and personalized alexa near our bed. 
@@ -49,6 +50,16 @@ True, If it is possible, I would like to learn how to code from Bill( The Micros
 
 You can read about my abroad work experience, offshore project with startup in Texas, visiting new countries, working with foreigners, speaking new language and much more by reading my premium blogs where I have shared all the ways.
 
+**How living with 30 friends from different country for 3 months helped?**
+![_config.yml]({{ site.baseurl }}/images/foreign.jpg)
+**Why my UoMichigan cool HR awarded me?**
+![_config.yml]({{ site.baseurl }}/images/foreign2.jpg)
+**Russian friends invited to Taipei Indian Restaurent**
+![_config.yml]({{ site.baseurl }}/images/foreign1.jpg)
+**Finally knew, Haiti is in America..lol**
+![_config.yml]({{ site.baseurl }}/images/foreign3.jpg)
+
+
 **But how are your sessions designed and how is it different?**
 
 I don't teach, I inspire. That's an one line answer. I don't believe in notes, neither in working hard. If you enjoy the process, you will not feel you are working hard but your parents will see you doing so. 
@@ -59,4 +70,7 @@ If you feel you are working hard, it's time to move on to the next wonderful thi
 I'm not an astrologer, I'm an engineer. I love maths and programming. I know not everyone does, but having an expert talk a bit about his wonderful experience can certainly ignite the young minds. As my inspiration, Kalam said, "As a child of God, I am greater than anything that can happen to me.". So, let's do shree Ganesh without any doubt. Anyway the most precious thing is yours and my time. So, let's not miss the bus.
 
 Now if you are here and I sent you the link to this blog, you are surely special and have my number. Check whether you will be available to learn and change a bit, whether you want to get a new chance to be in good team then only get back to me and to know more about the [international community team, click here](https://internsearchin.github.io).
+
+**Want to look into my latest conversation with President of Toastmaster from Johannesburg, SA** [Click here](https://www.youtube.com/watch?v=lyz6xpD_zQ8&t=188s)
+![_config.yml]({{ site.baseurl }}/images/toastmaster.jpg)
 
