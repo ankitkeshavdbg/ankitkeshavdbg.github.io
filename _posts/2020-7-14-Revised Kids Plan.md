@@ -56,7 +56,7 @@ If you feel you are working hard, it's time to move on to the next wonderful thi
 
 **Will my kid enjoy the process?**
 
-I'm not an astrologer, I'm an engineer. I love maths and programming. I know not everyone does but having an expert talk a bit about his wonderful experience can certainly ignite the young minds. As my inspiration Kalam said, "As a child of God, I am greater than anything that can happen to me.". So, let's do shree ganesh without many doubts. Anyway the most precious thing is your and mine time. So, let's not miss the bus.
+I'm not an astrologer, I'm an engineer. I love maths and programming. I know not everyone does, but having an expert talk a bit about his wonderful experience can certainly ignite the young minds. As my inspiration, Kalam said, "As a child of God, I am greater than anything that can happen to me.". So, let's do shree Ganesh without any doubt. Anyway the most precious thing is yours and my time. So, let's not miss the bus.
 
 Now if you are here and I sent you the link to this blog and you want to register: Check whether you will be available to learn and change yourself, whether you want to get a new chance to be in good team then only [click here to register in team of 10](https://internsearchin.github.io/register) and to know more about the [international community team, click here](https://internsearchin.github.io).
 
