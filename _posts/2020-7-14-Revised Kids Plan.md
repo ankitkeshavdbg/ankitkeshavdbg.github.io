@@ -45,11 +45,11 @@ This program of 70 days needs lots of effort and consistency to make you confide
 
 ![_config.yml]({{ site.baseurl }}/images/blonde.png)
 
-True, If it is possible, I would like to learn how to code from Bill than any primary teacher who teaches just because of sustaining himself/herself. For me, teaching is my passion. I like being with kids and young mind to understand how brain works. When I was kid, I never looked into my own thinking pattern but by helping others and solving their difficulty, I find it fascinating how kids are learning without baggage of what is next in life!!
+True, If it is possible, I would like to learn how to code from Bill( The Microsoft guy) than any primary teacher who teaches just because of sustaining himself/herself. For me, teaching is my passion. I like being with kids and young mind to understand how brain works. When I was kid, I never looked into my own thinking pattern but by helping others and solving their difficulty, I find it fascinating how kids are learning without baggage of what is next in life!!
 
 You can read about my abroad work experience, offshore project with startup in Texas, visiting new countries, working with foreigners, speaking new language and much more by reading my premium blogs where I have shared all the ways.
 
-**But how are your sessions designed and how is it different? **
+**But how are your sessions designed and how is it different?**
 
 I don't teach, I inspire. That's an one line answer. I don't believe in notes, neither in working hard. If you enjoy the process, you will not feel you are working hard but your parents will see you doing so. 
 If you feel you are working hard, it's time to move on to the next wonderful thing. One life, many dreams so why waste time in things which you don't like!
