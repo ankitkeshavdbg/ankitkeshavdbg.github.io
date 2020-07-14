@@ -1,71 +1,40 @@
 ---
 layout: post
-title: 70 day Plan!
+title: Revised Kids Plan!
 ---
 
 
-**Does it sound like a dream for you?**
+**Coding is a language that let's you speak to computers, the next human!!**
 
+You know what, with the advancement in tech, we either become the consumer or the producer. Consuming content makes you satisfied but making and creating new things gives the satisfaction of being a god. Seriously, when I code, I feel as if I am making something and bringing it to life.
 
+Human beings have craved for creation and that's why we adore paintings, sculptors and big monuments but that is the fact of history. Why have we never heard of any inventor after Thomas, yeah that same guy who invented light bulb. You know why, because there are many who have brought smartphones to our hands, GPU in our home and personalized alexa near our bed. 
 
-*   You are done with 100% Computer Science fundamental subjects.
-*   You have solved 200 questions to improve your problem solving skills.
-*   You have built 2 projects to write on your resume.
-*   You have confidence to speak up how productively you use your time to improve niche skills( by not copying codes!!)
+Let's see a dream, indeed a reality. Education is not about information or accumulating knowledge but about grasping and implementing that. Coding cool things gives you that fun and feeling of being a god where you are actually making things, breaking things and using your brain.
+
+Have you read Sapiens, that famous book where Harari talks about how the next decade is going to be the time of super humans. I also want to be one but how?
+
+But let's come back to why get into coding at young age?
+
+* Is it to impress that aunty living in US or for that neighbor kid whose dad is software developer? No.
+* Is it to become Zuckerberg to build multi-billion dollar startup? No.
+* Is it to break the monotony of the current syllabus in school? No.
+* Is it to sound cool infront of friends? A big No.
+
+We should learn to code because we want to improve our brain, its facets of problem solving and for the fun of making things.
 
 This program of 70 days needs lots of effort and consistency to make you confident. We believe and expect you to be honest in your hardwork and leave the planning part for us.
 
-Anyone can do it if (s)he puts in time to be better. We believe in small wins everyday. You won't be a success overnight because they have banned TikTok :P :)
+**But Why to start? Tell me that Ankit!!**
 
-So, how many days have you spent in just thinking about how to start and take action? I think it's somewhere around last 60 to 90 days. So do you still want to waste same amount of time looking into few more youtube videos to find---
-* How to get best laptop to program?
-* Which is the best programming language?
-* How to be a competitive programmer in a month?
-* How to crack top tech company? and many more..
+**Why?**
 
-**Let's take action today!!**
+*   We really encourage children to learn due to the minimal and easy to read style of Python.
+*   By experimenting, children learn and strengthen their brains. Even when they make a mistake they learn. Children can be creative and creativity is encouraged. Creativity is part of the process and not always the product.
+*   Coding helps children to be able to  visualize abstract concepts, lets them apply math to real-world situations, and makes math fun and creative.  Coding is present in many of today’s STEM programs.
+*   As they learn to code and give direction they learn that there is no one way to do something and that even if their way didn’t work.  They can improve upon what they have already done without worrying about failing. Coding is a basic literacy in the digital age, and it is important for kids to understand and be able to work with and understand the technology around them.
 
-**Goals:**
-
-
-
-*   Resume enhancement and to increase the weightage of it by doing two quality projects by own hand from scratch and with complete domain knowledge.
-*   Good understanding of CS fundamentals after lively discussion everyday.
-*   Being expressive to walk through your code and thoughts in front of people.
-*   Improve problem solving skills to solve good level questions.
-*   To be a different person with consistent learning habits.
-
-**Achievements:**
-
-After a week:
-
-
-
-*   You will have good in depth knowledge of 20% of OS and 20% of Algorithm syllabus which we have designed for you.
-*   You would have solved around 14 to 20 questions in a consistent manner by deploying codes on open source.
-*   A grip on one programming language to write codes.
-*   Most importantly- A habit to complete small daily tasks.
-*   How to initiate a project and do its documentation.
-
-After a month:
-
-
-
-*   Nearly 40% of Algorithm and OS theoretical part without complications.
-*   You would have solved around 60 to 80 question and proficient for codechef long challenges.
-*   You would have learned the intricacies of GIT, setting up the environment for projects and fun shortcuts like STL.
-*   Completion of one project by the end of 4 weeks.
-
-After 70 days:
-
-
-
-*   100% syllabus of OS and Algorithms and ready to switch to OOPs and Databases.
-*   140 to 200 question on DS and Algo to be proficient for codeforces short contest.
-*   Good hold on OOP paradigm..
-*   Done with the second project with the documentation, code deployed on open source and lot of things to write on CV.
-
-How your CV looks like after you are done with 70 days of this program: 
+**But Ankit, you have such an amazing CV and have lot of dreams, why do you teach kids?**
 
 ![_config.yml]({{ site.baseurl }}/images/Rosalind (1).jpg)
 
@@ -76,74 +45,18 @@ How your CV looks like after you are done with 70 days of this program:
 
 ![_config.yml]({{ site.baseurl }}/images/blonde.png)
 
-You can read about my abroad work experience, offshore project with startup in Texas(Not Onsite), visiting new countries, working with foreigners, speaking new language and much more by reading my premium blogs where I have shared all the ways straight from applying to the company(all emails included), different opportunities I searched for, talking to new people, booking international flights, applying for visa, writing letter of recommendation, writing statement of purpose, planning for coding interviews, preparing for HR rounds and finally the rich experience of working on different projects till now.
+True, If it is possible, I would like to learn how to code from Bill than any primary teacher who teaches just because of sustaining himself/herself. For me, teaching is my passion. I like being with kids and young mind to understand how brain works. When I was kid, I never looked into my own thinking pattern but by helping others and solving their difficulty, I find it fascinating how kids are learning without baggage of what is next in life!!
 
-**How do we help you?**
+You can read about my abroad work experience, offshore project with startup in Texas, visiting new countries, working with foreigners, speaking new language and much more by reading my premium blogs where I have shared all the ways.
 
+**But how are your sessions designed and how is it different? **
 
+I don't teach, I inspire. That's an one line answer. I don't believe in notes, neither in working hard. If you enjoy the process, you will not feel you are working hard but your parents will see you doing so. 
+If you feel you are working hard, it's time to move on to the next wonderful thing. One life, many dreams so why waste time in things which you don't like!
 
-*   By building a quality team which helps each other to grow.
-*   We help you to be consistent by sharing small daily and weekly goals just to get rid of the overwhelming amount of resources available online.
-*   We help you dream big and go for learning without pressure of completing things which anyway gets you a job.
-*   We help you build habit of learning by pushing you everyday with project based learning in modular fashion.
-*   We provide you with concise handy notes to revise with the links to all important things which one must learn and know regarding Computer Science fundamentals.
-*   We help you by discussing tough problems and helping you learn how to approach the problem.
+**Will my kid enjoy the process?**
 
-So with all these things you automatically become a learning beast which helps you to clear tests and get placement which is not our priority anyway. Learning gets you all the worldly things in a seamless fashion, be it placement, job or acing in competitive exams. 
-
-**Problem solving **
-
-* 2 questions of Data Structure and Algorithm everyday.
-
-2*7= 14 to 20 questions for each week. We will give you detailed hints and solutions to the problem so that you don't get muddled up with problems.
-
-**Core CS fundamental subject discussion**
-
-* Operating System, OOPs, Algorithms.
-
-* Data Structure, DBMS and Computer Networks.
-
-Indexed resources on daily basis by providing 8 page pdf to quickly read and discuss on!!
-
-**Session Daily:**
-
-* Morning session: To provide you with daily goals to accomplish.
-
-* Evening session: To discuss the subject matter and clear doubts to keep you on track.
-
-Team will be available almost every time on the community group to resolve your issues.
-
-"We break big goals into small achievable chunks for you"
-
-* Weekly meeting to discuss the project progress which we do from scratch.
-
-We will start with OS, Algorithms, then OOPs, then Databases and eventually learn Computer Networks along with solving problems everyday and incrementally building our project.
-
-**It's Boring plan ? Who studies when we can copy codes!!**
-
-Well, there is always an easy path to satisfy yourself. Tough roads take you to a better place. So again choice is yours.
-
-Woah! but if you don't do which other people don't, you will never have rock solid foundations and be better than the rest. Anyway our goal is to be better than our yesterday.
-
-**But it takes a lot of time?**
-
-Come on! What doesn’t take time? Building muscles, stamina and writing codes takes time and consistency.
-
-But I want to be a better developer overnight! It doesn't happen like that.
-
-**But I can't pay?**
-
-Yeah! no issues!!
-
-I won’t curtail your learning if you can’t pay. This is my promise to you.
-
-We never stopped you learning if you have financial issues and this day of decision will surely come several times in future as well but you'll be a bit late and regret the service which cost less than the price of weekly Idli/ Vada/ Samosa or Pizza.
-
-So your dreams are costly and so we help you and we charge you for the amount of time we put in to help you out and give you structured team sessions and opportunity to learn and grow. If you don’t pay for services, how do you expect someone will pay you for what you learned?
-
-Just for information, the article you just read took more than an hour to type. And the plan I made took countless days, several discussion sessions, numerous conversations and brainstorming to formalize to give you a better learning experience. So I charge for these small efforts!! Nothing hard.
-
-If you can’t, I’m not harsh to stop you from learning. Just text me your reasons on [my email](mailto: ankitkeshavdbg@gmail.com) 
+I'm not an astrologer, I'm an engineer. I love maths and programming. I know not everyone does but having an expert talk a bit about his wonderful experience can certainly ignite the young minds. As my inspiration Kalam said, "As a child of God, I am greater than anything that can happen to me.". So, let's do shree ganesh without many doubts. Anyway the most precious thing is your and mine time. So, let's not miss the bus.
 
 Now if you are here and I sent you the link to this blog and you want to register: Check whether you will be available to learn and change yourself, whether you want to get a new chance to be in good team then only [click here to register in team of 10](https://internsearchin.github.io/register) and to know more about the [international community team, click here](https://internsearchin.github.io).
 
