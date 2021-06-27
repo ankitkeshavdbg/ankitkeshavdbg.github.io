@@ -1,49 +1,164 @@
-| vanamgangireddy |
-| Kajal Kumari |
-| Pravesh kumar |
-| Sai varshitha Ilindra |
-| Rajeswari |
-| Arup Deb |
-| Nishant Kumar |
-| Dwipshikha Debbarma |
-| DHIRENDRA KUMAR YADAV |
-| Swapnil Sagar |
-| Harsh Chugh |
-| Arijit Debnath |
-| Mayuri Shinde |
-| Arijit Debnath |
-| Abhik Sinha |
-| Pedapati kusuma sandhya |
-| Ankit Girase |
-| KOYYANA PAVANI |
-| Ankit Gautam |
-| Anubhav singh |
-| AZMEERA BHAGYA SREE |
-| AZMEERA BHAGYA SREE |
-| Chiradeep Banik |
-| Kalagotla suraj |
-| JULI DEBBARMA |
+|  |
+| J.Raja Rajeswari |
+| Poojitha |
+| Anjura |
+| Koyyana Pavani |
 | Sravani |
-| Rakesh Sharma |
-| Nabamita das |
-| SHAGUN TRIPATHI |
-| TITU JAMATIA |
-| Kush baranwal |
+| Makineedi Jahnavi |
+| Pedapati Kusuma Sandhya |
+| Mayuri Jagdish Shinde |
+| Sai Varshitha Ilindra |
+| Azmeera. Bhagya Sree |
+| Juli Debbarma |
+| Tapalina Pal |
+| Nabamita Das |
+| Angelish Debbarma |
+| Dwipshikha Debbarma |
+| Shagun Tripathi |
+| Kajal Kumari |
+| Settypalli Sudarsan Reddy |
 | Katam Vijaya Durga Mani Teja |
+| Vattem Venkatesh |
+| Vanamgangireddy |
+| G. Lokesh Manikanta |
+| Vishnu Sandeep |
+| Kalagotla Suraj |
+| Tubati Nikhil Sai |
+| Abhiram |
+| Singampalli Navateja |
+| Bhargav |
+| Swapnil Sagar |
+| Ankit Kumar |
+| Pravesh Kumar |
+| Adarsh Raj |
+| Om Ranjan |
+| Dhirendra Kumar Yadav |
+| Thummar Smit |
+| Ankit Girase |
+| Aman Ashish Sahu |
+| Gaurav Maheshwari |
+| Harsh Chugh |
+| Kartik Jain |
+| P.Adarsh |
+| N Rohit |
+| Chayan Debbarma |
+| Abhik Sinha |
 | Mayur Ray |
 | Debajyoti Datta |
-| Pirsa Debbarma |
-| Simanta Raj Deb |
-| Lovecase Singh |
 | Pathik Dey |
-| Kartik Jain |
-| Ankit kumar |
-| Makineedi Jahnavi |
-| Debangshi Das |
-| Gaurav maheshwari |
-| Chayan Debbarma |
-| P.ADARSH |
-| Anjura Vundi |
-| N Rohit |
-| Tapalina Pal |
-| Abhiram duday |
+| Chiradeep Banik |
+| Titu Jamatia |
+| Ashim Reang |
+| Simanta Raj Deb |
+| Henry Reang |
+| Arup Debbarma |
+| Arup Deb |
+| Arijit Debnath |
+| Sritanu Debbarma |
+| Pirsa Debbarma |
+| Debajeet Das |
+| Ankit Gautam |
+| Kush Baranwal |
+| Nishant Kumar |
+| Anubhav Singh |
+| Lovecase Singh |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
